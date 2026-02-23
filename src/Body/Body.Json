@@ -1,4 +1,14 @@
-{
-  "name":"Subham",
-  "job":"SDET"
-}
+[
+  {
+    "name": "Subham",
+    "job": "SDET"
+  },
+  {
+    "name": "SKO",
+    "job": "Senior Sdet"
+  },
+  {
+    "name": "LKO",
+    "job": "Senior SDE"
+  }
+]

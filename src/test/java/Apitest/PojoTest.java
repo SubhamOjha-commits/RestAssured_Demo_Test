@@ -73,4 +73,5 @@ public class PojoTest {
                 .body("name", equalTo("Subham"))
                 .body("job", equalTo("SDET"));
     }
+
 }
