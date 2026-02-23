@@ -152,13 +152,7 @@ After running tests, reports are generated in:
 - `target/surefire-reports/` - TestNG HTML reports
 - Console output with detailed request/response logs
 
-## 🤝 Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ## 👤 Author
 
